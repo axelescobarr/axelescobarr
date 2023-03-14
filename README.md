@@ -1,3 +1,5 @@
+Fullstack Developer [Javascript] [Python] [React] [Node]
+
 ¿Quién soy?
 
 Hola! Soy Axel, vivo en Paraná, Entre Ríos, con mi perrito 🐕‍🦺
