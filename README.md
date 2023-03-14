@@ -1,4 +1,4 @@
-¿Quien soy?
+¿Quién soy?
 
 Hola! Soy Axel, vivo en Paraná, Entre Ríos, con mi perrito 🐕‍🦺
 Desde muy chico siempre tuve curiosidad sobre el funcionamiento de internet y diversos aparatos tecnológicos, eso despertó mi interés e hizo que me enfoque en desarrollar distintas maneras de utilizar la tecnología para satisfacer mis necesidades, potenciando mi creatividad y mi pensamiento critico al máximo en búsqueda de la creación de soluciones optimas.
