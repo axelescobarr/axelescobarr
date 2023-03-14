@@ -7,7 +7,7 @@ Desde muy chico siempre tuve curiosidad sobre el funcionamiento de internet y di
 
 Soy desarrollador fullstack web stack P.E.R.N. con experiencia en diseño UX/UI.
 Soy un joven apasionado de la programación en busca de perfeccionar mis conocimientos, motivado por el desarrollo personal y lo gratificante de aprender.
-He trabajado en diversos proyectos, tanto de manera autónoma como en diversos equipos, de los cuales he aprendido y he mejorado muchas soft skills como son la empatía, el trabajo en equipo, compromiso y pensamiento crítico.
+He trabajado en diversos proyectos, tanto de manera autónoma como en diversos equipos, de los cuales he aprendido y he mejorado mucho.
 
 ¿Qué tecnologías utilizo? 
 
