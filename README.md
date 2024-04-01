@@ -45,6 +45,6 @@ Más sobre mi:
 
 🔶Soy una persona muy tranquila y educada, suelo meditar todos los días y mantener mi mente y mi cuerpo en un perfecto equilibrio.
 
-Si quieres saber más sobre mi puedes entrar a mi linkedin: [github.com/axelescobarr](https://www.linkedin.com/in/axel-escobar-schneider/) o a mi portafolio: axelescobar.vercel.app
+Si quieres saber más sobre mi puedes entrar a mi linkedin: [github.com/axelescobarr](https://www.linkedin.com/in/axel-escobar-schneider/) o a mi portafolio: axelescobardev.vercel.app
 
 Saludos!
